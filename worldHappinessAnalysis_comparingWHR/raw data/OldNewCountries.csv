@@ -1,0 +1,39 @@
+data_source,old_country,new_country
+UN,Bolivia (Plurinational State of),Bolivia
+UN,Congo (Democratic Republic of the),"Congo, Dem. Rep."
+UN,Czechia,Czech Republic
+UN,Eswatini (Kingdom of),Eswatini
+UN,Micronesia (Federated States of),"Micronesia, Fed. Sts."
+UN,Tanzania (United Republic of),Tanzania
+UN,Côte d'Ivoire,Ivory Coast
+UN,Congo,"Congo, Rep."
+UN,"Hong Kong, China (SAR)","Hong Kong SAR, China"
+UN,Iran (Islamic Republic of),"Iran, Islamic Rep."
+UN,Saint Kitts and Nevis,St. Kitts and Nevis
+UN,Korea (Republic of),"Korea, Rep."
+UN,Saint Lucia,St. Lucia
+UN,Moldova (Republic of),Moldova
+UN,Saint Vincent and the Grenadines,St. Vincent and the Grenadines
+UN,Venezuela (Bolivarian Republic of),Venezuela
+UN,Viet Nam,Vietnam
+WB,"Bahamas, The",Bahamas
+WB,"Egypt, Arab Rep.",Egypt
+WB,"Gambia, The",Gambia
+WB,Kyrgyz Republic,Kyrgyzstan
+WB,Lao PDR,Lao People's Democratic Republic
+WB,Slovak Republic,Slovakia
+WB,"Venezuela, RB",Venezuela
+WB,"Yemen, Rep.",Yemen
+WHR,Taiwan Province of China,
+WHR,Kosovo,
+WHR,South Korea,
+WHR,Russia,Russian Federation
+WHR,North Cyprus,
+WHR,Hong Kong S.A.R. of China,"Hong Kong SAR, China"
+WHR,Congo (Brazzaville),"Congo, Rep."
+WHR,Macedonia,North Macedonia
+WHR,Laos,
+WHR,Iran,"Iran, Islamic Rep."
+WHR,Palestinian Territories,
+WHR,Congo (Kinshasa),"Congo, Dem. Rep."
+WHR,Swaziland,Eswatini

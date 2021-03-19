@@ -1,0 +1,193 @@
+,country,svg-id,group,group_who,group_wb,group_madd,maternal_mortality_ratio_per100k,adolescent_fetility_per1k,school_secondary_enrollment_gpi,women_seats_parliament,literacy_rate,natural_resource_depletion,life_expectancy,income_inequality,female_suicide_per100k,male_suicide_per100k
+0,Afghanistan,AF,Asia,Eastern Mediterranean,South Asia,East Asia,638.0,65.141,0.636020005,27.71084337,43.01971817,0.3,64.5,37.4,2.1,10.6
+1,Albania,AL,Balkan,Europe,Europe and Central Asia,Eastern Europe,15.0,19.5724,1.01730001,27.85714286,98.14115143,1.1,78.5,29.0,4.3,7.0
+2,Algeria,DZ,Africa,Africa,Middle East and North Africa,Africa,112.0,9.8338,0.9970199765,25.75757576,81.40783691,9.3,76.7,27.6,1.8,4.9
+3,Andorra,AD,Europe,Europe,Europe and Central Asia,Western Europe,67.0,39.089299999999994,0.9970199765,32.14285714,91.29380798,1.9,81.8,37.4,4.45,13.6
+4,Angola,AO,Africa,Africa,Sub-Saharan Africa,Africa,241.0,147.958,0.9970199765,30.45454545,66.03011322,12.8,60.8,42.7,4.6,14.0
+5,Antigua and Barbuda,AG,Carribean,Americas,Latin America and Caribbean,Latin America,42.0,41.831,0.97924,11.11111111,98.94999695,1.9,76.9,37.4,0.9,13.6
+6,Argentina,AR,South America,Americas,Latin America and Caribbean,Latin America,39.0,62.5654,1.019629955,38.91050584,99.00386809999999,1.0,76.5,40.6,3.5,15.0
+7,Armenia,AM,Europe,Europe,Europe and Central Asia,Eastern Europe,26.0,20.886,1.022830009,18.095238100000003,99.73606873,2.9,74.9,33.6,2.0,10.1
+8,Australia,AU,Oceania,Western Pacific,East Asia and Pacific,Western Offshoots,6.0,11.3258,0.9688500170000001,28.66666667,91.29380798,3.0,83.3,35.8,6.0,17.4
+9,Austria,AT,Europe,Europe,Europe and Central Asia,Western Europe,5.0,7.0444,0.97408998,34.42622951,91.29380798,0.1,81.4,30.5,5.7,17.5
+10,Azerbaijan,AZ,Europe,Europe,Europe and Central Asia,Eastern Europe,26.0,56.4976,1.0026199820000001,16.8,99.79122925,13.4,72.9,37.4,1.0,4.3
+11,Bahamas,BS,Carribean,Americas,Latin America and Caribbean,Latin America,70.0,29.2254,1.02639997,12.82051282,91.29380798,1.9,73.8,37.4,0.5,2.8
+12,Bahrain,,Asia,Eastern Mediterranean,Middle East and North Africa,Western Asia,14.0,13.239,1.021550059,15.0,97.46418762,3.2,77.2,37.4,2.1,7.9
+13,Bangladesh,BD,Asia,South-East Asia,South Asia,East Asia,173.0,82.3128,1.115910053,20.28571429,73.91220093,0.6,72.3,32.4,6.7,5.5
+14,Barbados,BB,Carribean,Americas,Latin America and Caribbean,Latin America,27.0,31.1302,0.999639988,20.0,99.59999847,0.1,79.1,37.4,0.3,0.8
+15,Belarus,BY,Europe,Europe,Europe and Central Asia,Eastern Europe,2.0,13.7516,0.990570009,34.54545455,99.75656128,0.6,74.6,25.4,6.2,39.3
+16,Belgium,BE,Europe,Europe,Europe and Central Asia,Western Europe,5.0,4.5704,1.07336998,38.0,91.29380798,1.9,81.5,27.7,9.4,22.2
+17,Belize,BZ,Carribean,Americas,Latin America and Caribbean,Latin America,36.0,68.04899999999999,0.9875599740000001,9.375,91.29380798,0.5,74.5,37.4,2.0,9.9
+18,Benin,BJ,Africa,Africa,Sub-Saharan Africa,Africa,397.0,84.0364,0.877080023,7.2289156629999995,42.36240005,1.8,61.5,47.8,9.6,22.6
+19,Bhutan,BT,Asia,South-East Asia,South Asia,East Asia,183.0,18.895,1.0582200290000001,14.89361702,66.56114960000001,2.7,71.5,37.4,8.9,13.8
+20,Bolivia,BO,South America,Americas,Latin America and Caribbean,Latin America,155.0,63.9042,0.984809995,53.07692308,92.45507813,5.8,71.2,44.0,8.9,16.9
+21,Bosnia and Herzegovina,BA,Balkan,Europe,Europe and Central Asia,Eastern Europe,10.0,9.149,0.9970199765,21.42857143,96.99176788,0.4,77.3,33.0,2.5,10.6
+22,Botswana,BW,Africa,Africa,Sub-Saharan Africa,Africa,144.0,45.358000000000004,0.9970199765,9.523809523999999,86.82318115,0.5,69.3,53.3,5.7,18.3
+23,Brazil,BR,South America,Americas,Latin America and Caribbean,Latin America,60.0,57.8858,0.9970199765,15.00974659,93.22750092,1.9,75.7,53.3,2.8,9.7
+24,Brunei Darussalam,BN,Asia,Western Pacific,East Asia and Pacific,East Asia,31.0,9.7116,1.01620996,9.090909091,97.21411133,10.9,75.7,37.4,2.8,6.2
+25,Bulgaria,BG,Balkan,Europe,Europe and Central Asia,Eastern Europe,10.0,39.3266,0.976819992,23.75,91.29380798,0.7,74.9,37.4,3.2,13.1
+26,Burkina Faso,BF,Africa,Africa,Sub-Saharan Africa,Africa,320.0,102.0658,0.98913002,11.02362205,41.22444916,15.0,61.2,35.3,9.1,22.4
+27,Burundi,BI,Africa,Africa,Sub-Saharan Africa,Africa,548.0,54.7516,1.03429997,36.36363636,68.37532806,15.7,61.2,38.6,7.7,23.1
+28,Cabo Verde,CV,Africa,Africa,Sub-Saharan Africa,Africa,58.0,72.6946,1.006999969,23.61111111,86.79029083,0.5,72.8,37.4,7.7,24.1
+29,Cambodia,KH,Asia,Western Pacific,East Asia and Pacific,East Asia,160.0,50.7204,0.9970199765,20.0,80.52648926,1.0,69.6,37.4,3.2,9.0
+30,Cameroon,CM,Africa,Africa,Sub-Saharan Africa,Africa,529.0,103.4938,0.885640025,31.11111111,77.07103729,2.5,58.9,46.6,12.5,26.9
+31,Canada,CA,North America,Americas,North America,Western Offshoots,10.0,8.0346,1.003329992,26.94610778,91.29380798,0.7,82.3,34.0,5.8,15.1
+32,Central African Republic,CF,Africa,Africa,Sub-Saharan Africa,Africa,829.0,126.9636,0.7609500290000001,8.571428571,37.39582062,0.1,52.8,56.2,6.0,18.0
+33,Chad,TD,Africa,Africa,Sub-Saharan Africa,Africa,1140.0,157.9144,0.727490008,15.25423729,22.31155014,13.1,54.0,43.3,13.8,17.1
+34,Chile,CL,South America,Americas,Latin America and Caribbean,Latin America,13.0,40.1384,0.9856500029999999,22.58064516,96.40228271,6.5,80.0,46.6,3.8,16.0
+35,China,CN,Asia,Western Pacific,East Asia and Pacific,East Asia,29.0,7.643,1.014310002,24.89932886,96.84088898,0.9,76.7,38.6,8.3,7.9
+36,Colombia,CO,South America,Americas,Latin America and Caribbean,Latin America,83.0,65.482,1.013210058,18.12865497,95.09250641,3.4,77.1,49.7,2.8,11.5
+37,Comoros,KM,Africa,Africa,Sub-Saharan Africa,Africa,273.0,64.0606,1.022899985,6.0606060610000005,58.81702042,1.8,64.1,45.3,5.4,17.6
+38,"Congo, Dem. Rep.",CD,Africa,Africa,Sub-Saharan Africa,Africa,473.0,122.6056,0.889490008,8.943089431,77.04267883,23.2,60.4,42.1,4.9,15.0
+39,"Congo, Rep.",CG,Africa,Africa,Sub-Saharan Africa,Africa,378.0,110.9356,0.9970199765,11.25827815,80.29875946,31.4,64.3,48.9,5.0,13.9
+40,Costa Rica,CR,North America,Americas,Latin America and Caribbean,Latin America,27.0,52.5186,1.041360021,45.61403509,97.86379242,0.3,80.1,48.3,2.3,12.8
+41,Ivory Coast,CI,Africa,Africa,Sub-Saharan Africa,Africa,60.0,39.089299999999994,0.9970199765,20.50632911,91.29380798,2.2,57.4,41.5,13.0,32.0
+42,Croatia,HR,Balkan,Europe,Europe and Central Asia,Eastern Europe,8.0,8.2652,1.032649994,18.54304636,91.29380798,0.3,78.3,31.1,5.1,18.8
+43,Cuba,CU,Carribean,Americas,Latin America and Caribbean,Latin America,36.0,51.5156,0.986819983,53.2231405,91.29380798,0.5,78.7,37.4,4.1,16.4
+44,Cyprus,CY,Middle East,Europe,Europe and Central Asia,Western Europe,6.0,4.4586,0.983219981,17.85714286,91.29380798,0.1,80.8,34.0,1.9,7.2
+45,Czech Republic,CZ,Europe,Europe,Europe and Central Asia,Eastern Europe,3.0,11.9314,1.0049899820000001,22.0,99.83303070000001,0.1,79.2,25.9,4.2,17.2
+46,Denmark,DK,Nordic,Europe,Europe and Central Asia,Western Europe,4.0,4.169,0.9998199940000001,37.430167600000004,91.29380798,0.4,80.8,28.2,5.2,13.2
+47,Djibouti,DJ,Africa,Eastern Mediterranean,Middle East and North Africa,Africa,248.0,18.4434,1.014449954,26.15384615,91.29380798,0.7,66.6,41.6,5.3,11.9
+48,Dominica,DM,Carribean,Americas,Latin America and Caribbean,Latin America,67.0,39.089299999999994,0.986060023,25.0,91.29380798,1.9,78.1,37.4,4.45,13.6
+49,Dominican Republic,DO,Carribean,Americas,Latin America and Caribbean,Latin America,95.0,93.0342,0.9973400240000001,26.84210526,93.77845764,1.6,73.9,45.7,3.2,17.9
+50,Ecuador,EC,South America,Americas,Latin America and Caribbean,Latin America,59.0,78.7626,1.021919966,37.95620438,92.82978821,2.9,76.8,44.7,3.8,10.7
+51,Egypt,EG,Middle East,Eastern Mediterranean,Middle East and North Africa,Africa,37.0,53.086000000000006,0.9965100290000001,14.93288591,71.16825104,4.0,71.8,31.8,1.7,7.2
+52,El Salvador,SV,North America,Americas,Latin America and Caribbean,Latin America,46.0,68.6136,0.9776700140000001,30.95238095,89.00859833,1.0,73.1,38.0,4.3,24.8
+53,Equatorial Guinea,GQ,Africa,Africa,Sub-Saharan Africa,Africa,301.0,153.4524,0.9970199765,20.0,91.29380798,22.9,58.4,37.4,10.8,31.3
+54,Eritrea,ER,Africa,Africa,Sub-Saharan Africa,Africa,480.0,50.7028,0.878799975,22.0,76.57051849,1.9,65.9,37.4,6.1,22.4
+55,Estonia,EE,Europe,Europe,Europe and Central Asia,Eastern Europe,9.0,7.0988,1.015769958,26.73267327,91.29380798,0.2,78.6,32.7,4.4,25.6
+56,Eswatini,SZ,Africa,Africa,Sub-Saharan Africa,Africa,437.0,75.3554,0.941690028,7.246376812,88.41938019,1.7,59.4,51.5,9.6,25.4
+57,Ethiopia,ET,Africa,Africa,Sub-Saharan Africa,Africa,401.0,65.0748,0.9214599729999999,38.75685558,51.7711792,9.4,66.2,39.1,4.7,18.7
+58,Fiji,FJ,Oceania,Western Pacific,East Asia and Pacific,East Asia,34.0,49.1406,0.9970199765,19.60784314,99.08210754,0.8,67.3,36.7,2.5,8.8
+59,Finland,FI,Nordic,Europe,Europe and Central Asia,Western Europe,3.0,5.6588,1.057899952,42.0,91.29380798,0.1,81.7,27.1,6.8,20.8
+60,France,FR,Europe,Europe,Europe and Central Asia,Western Europe,8.0,4.7362,1.000519991,39.58333333,91.29380798,1.9,82.5,32.7,6.5,17.9
+61,Gabon,GA,Africa,Africa,Sub-Saharan Africa,Africa,252.0,93.5644,0.9970199765,17.09401709,84.66716003,10.5,66.2,38.0,4.3,15.0
+62,Gambia,GM,Africa,Africa,Sub-Saharan Africa,Africa,597.0,75.7058,0.9970199765,10.34482759,50.77796936,5.7,61.7,35.9,7.3,12.8
+63,Georgia,GE,Europe,Europe,Europe and Central Asia,Eastern Europe,25.0,45.1848,1.012490034,16.0,99.36425781,0.7,73.6,37.9,1.9,12.3
+64,Germany,DE,Europe,Europe,Europe and Central Asia,Western Europe,7.0,7.8568,0.960990012,30.74753173,91.29380798,0.1,81.2,31.7,4.8,13.6
+65,Ghana,GH,Africa,Africa,Sub-Saharan Africa,Africa,308.0,65.7842,1.002220035,12.72727273,79.03964233,11.4,63.8,43.5,2.9,15.8
+66,Greece,GR,Europe,Europe,Europe and Central Asia,Western Europe,3.0,6.9376,0.975350022,18.66666667,97.93595123,0.1,82.1,36.0,1.5,6.1
+67,Grenada,GD,Carribean,Americas,Latin America and Caribbean,Latin America,25.0,28.1938,1.004469991,46.66666667,98.59999847,1.9,72.4,37.4,1.0,2.1
+68,Guatemala,GT,North America,Americas,Latin America and Caribbean,Latin America,95.0,69.756,0.966359973,12.65822785,81.2858963,1.7,74.1,48.3,1.7,4.4
+69,Guinea,GN,Africa,Africa,Sub-Saharan Africa,Africa,576.0,133.365,0.785929978,21.92982456,32.0038414,13.0,61.2,33.7,8.4,12.7
+70,Guinea-Bissau,GW,Africa,Africa,Sub-Saharan Africa,Africa,667.0,103.2252,0.9970199765,13.7254902,45.5811615,11.4,58.0,50.7,6.1,8.9
+71,Guyana,GY,Carribean,Americas,Latin America and Caribbean,Latin America,169.0,72.8682,0.9970199765,31.88405797,85.63973236,13.3,69.8,37.4,14.2,46.6
+72,Haiti,HT,Carribean,Americas,Latin America and Caribbean,Latin America,480.0,50.9536,0.9970199765,2.542372881,61.69134903,1.2,63.7,41.1,6.4,18.3
+73,Honduras,HN,North America,Americas,Latin America and Caribbean,Latin America,65.0,71.8464,1.0516599420000001,21.09375,87.20523834,1.6,75.1,50.5,1.7,5.3
+74,"Hong Kong SAR, China",HK,Asia,Western Pacific,East Asia and Pacific,East Asia,67.0,2.6462,1.0073299409999998,21.27659574,91.29380798,1.9,84.7,37.4,4.45,13.6
+75,Hungary,HU,Europe,Europe,Europe and Central Asia,Eastern Europe,12.0,24.2756,0.9945899840000001,12.56281407,99.09999847,0.2,76.7,30.4,6.2,22.2
+76,Iceland,IS,Nordic,Europe,Europe and Central Asia,Western Europe,4.0,5.9066,0.994610012,38.095238099999996,91.29380798,1.9,82.9,27.8,4.7,21.7
+77,India,IN,Asia,South-East Asia,South Asia,East Asia,145.0,12.0708,1.084020019,11.80811808,74.37299347,1.0,69.4,35.7,14.5,18.5
+78,Indonesia,ID,Asia,South-East Asia,East Asia and Pacific,East Asia,177.0,46.9052,0.993399978,19.82142857,95.65856171,1.9,71.5,38.1,2.2,5.2
+79,"Iran, Islamic Rep.",IR,Middle East,Eastern Mediterranean,Middle East and North Africa,Western Asia,16.0,40.6932,1.01710999,5.882352941000001,85.54425049,4.6,76.5,40.0,3.1,4.9
+80,Iraq,IQ,Middle East,Eastern Mediterranean,Middle East and North Africa,Western Asia,79.0,71.7416,0.9970199765,25.22796353,85.59999847,10.9,70.5,29.5,3.4,4.7
+81,Ireland,IE,Europe,Europe,Europe and Central Asia,Western Europe,5.0,7.0566,1.06024003,22.15189873,91.29380798,0.1,82.1,31.8,4.2,17.6
+82,Israel,IL,Middle East,Europe,Middle East and North Africa,Western Asia,3.0,9.192,1.0128500459999998,27.5,91.29380798,0.1,82.8,38.9,2.4,8.2
+83,Italy,IT,Europe,Europe,Europe and Central Asia,Western Europe,2.0,5.11,0.978990018,35.71428571,99.15576172,0.1,83.4,35.4,2.6,8.4
+84,Jamaica,JM,Carribean,Americas,Latin America and Caribbean,Latin America,80.0,51.3186,0.9890499709999999,17.46031746,88.09999847,0.3,74.4,37.4,0.9,3.2
+85,Japan,JP,Asia,Western Pacific,East Asia and Pacific,East Asia,5.0,3.6644,0.9970199765,10.10752688,91.29380798,1.9,84.5,32.1,8.1,20.5
+86,Jordan,JO,Middle East,Eastern Mediterranean,Middle East and North Africa,Western Asia,46.0,25.8414,1.002239943,15.38461538,98.22711182,0.1,74.4,33.7,2.7,4.7
+87,Kazakhstan,KZ,Asia,Europe,Europe and Central Asia,Eastern Europe,10.0,29.364,1.0121899840000002,27.10280374,99.78163147,8.7,73.2,27.5,7.7,40.1
+88,Kenya,KE,Africa,Africa,Sub-Saharan Africa,Africa,342.0,74.044,0.9970199765,21.7765043,81.53497314,2.5,66.3,40.8,2.1,9.7
+89,Kiribati,,Oceania,Western Pacific,East Asia and Pacific,East Asia,92.0,15.4046,0.9970199765,6.52173913,91.29380798,1.9,68.1,37.4,5.4,25.9
+90,"Korea, Rep.",KR,Asia,South-East Asia,East Asia and Pacific,East Asia,11.0,1.3204,0.9955300090000001,17.0,91.29380798,1.9,82.8,31.6,11.6,29.6
+91,Kuwait,KW,Middle East,Eastern Mediterranean,Middle East and North Africa,Western Asia,12.0,7.8858,1.048840046,3.076923077,96.05647278,8.1,75.4,37.4,1.7,2.5
+92,Kyrgyzstan,KG,Asia,Europe,Europe and Central Asia,Eastern Europe,60.0,32.4414,0.9969499709999999,19.16666667,99.58599854,6.3,71.3,27.3,3.7,14.8
+93,Lao People's Democratic Republic,LA,Asia,Western Pacific,East Asia and Pacific,East Asia,185.0,64.939,0.948159993,27.51677852,84.66104126,6.3,67.6,36.4,6.1,12.9
+94,Latvia,LV,Europe,Europe,Europe and Central Asia,Eastern Europe,19.0,15.8014,0.997439981,31.0,99.88931274,1.9,75.2,34.2,5.1,31.0
+95,Lebanon,LB,Middle East,Eastern Mediterranean,Middle East and North Africa,Western Asia,29.0,14.2238,0.9970199765,4.6875,95.06944275,1.9,78.9,31.8,2.2,4.2
+96,Lesotho,LS,Africa,Africa,Sub-Saharan Africa,Africa,544.0,92.57799999999999,1.045050025,22.13114754,76.6352005,5.1,53.7,54.2,32.6,22.7
+97,Liberia,LR,Africa,Africa,Sub-Saharan Africa,Africa,661.0,135.5662,0.863579988,12.32876712,48.30136108,19.2,63.7,35.3,13.0,13.8
+98,Libya,LY,Africa,Eastern Mediterranean,Middle East and North Africa,Africa,72.0,5.7148,0.9970199765,15.95744681,91.29380798,6.7,72.7,37.4,2.3,8.7
+99,Liechtenstein,LI,Europe,Europe,Europe and Central Asia,Western Europe,67.0,39.089299999999994,0.898109972,12.0,91.29380798,1.9,80.5,37.4,4.45,13.6
+100,Lithuania,LT,Europe,Europe,Europe and Central Asia,Eastern Europe,8.0,10.2026,0.9758300190000001,21.27659574,91.29380798,1.9,75.7,37.4,6.7,47.5
+101,Luxembourg,LU,Europe,Europe,Europe and Central Asia,Western Europe,5.0,4.6038,1.000280023,20.0,91.29380798,1.9,82.1,33.8,5.8,15.0
+102,Madagascar,MG,Africa,Africa,Sub-Saharan Africa,Africa,335.0,107.7374,1.0093799829999999,19.20529801,74.80432129,0.8,66.7,42.6,3.6,10.5
+103,Malawi,MW,Africa,Africa,Sub-Saharan Africa,Africa,349.0,132.0948,1.0011199709999998,16.66666667,62.14353943,8.2,63.8,44.7,3.2,13.7
+104,Malaysia,MY,Asia,Western Pacific,East Asia and Pacific,East Asia,29.0,13.4668,1.034540057,13.90134529,94.85440826,3.1,76.0,41.0,3.6,8.7
+105,Maldives,MV,Asia,South-East Asia,South Asia,East Asia,53.0,7.4138,1.0284600259999999,5.882352941000001,97.73494720000001,1.9,78.6,38.4,1.6,3.6
+106,Mali,ML,Africa,Africa,Sub-Saharan Africa,Africa,562.0,166.8668,0.876399994,8.843537415,35.47377014,9.5,58.9,33.0,4.7,13.5
+107,Malta,MT,Europe,Europe,Middle East and North Africa,Western Europe,6.0,12.4966,1.00406003,11.94029851,94.50318909,1.9,82.4,29.4,2.8,10.3
+108,Marshall Islands,,Oceania,Western Pacific,East Asia and Pacific,East Asia,67.0,39.089299999999994,1.025670052,9.090909091,91.29380798,1.9,73.9,37.4,4.45,13.6
+109,Mauritania,MR,Africa,Africa,Sub-Saharan Africa,Africa,766.0,69.628,1.046800017,20.26143791,53.49758911,12.4,64.7,32.6,3.6,12.1
+110,Mauritius,MU,Africa,Africa,Sub-Saharan Africa,Africa,61.0,25.2786,1.044059992,11.5942029,91.32539368,1.9,74.9,35.8,2.2,12.5
+111,Mexico,MX,North America,Americas,Latin America and Caribbean,Latin America,33.0,59.4542,1.046270013,48.2,95.37991333,2.2,75.0,43.4,2.3,8.2
+112,"Micronesia, Fed. Sts.",,Oceania,South-East Asia,South Asia,East Asia,88.0,13.2274,0.9970199765,21.27659574,91.29380798,1.9,67.8,40.1,6.2,16.2
+113,Moldova,MD,Europe,Europe,Europe and Central Asia,Eastern Europe,19.0,22.1802,0.993879974,22.77227723,99.3598938,0.2,71.8,25.9,3.8,24.1
+114,Mongolia,MN,Asia,Western Pacific,East Asia and Pacific,East Asia,45.0,31.4384,0.9970199765,17.10526316,98.42311859,22.8,69.7,32.3,3.8,23.3
+115,Montenegro,ME,Balkan,Europe,Europe and Central Asia,Africa,6.0,8.781,0.989380002,23.45679012,98.84718323,0.5,76.8,31.9,3.6,12.6
+116,Morocco,MA,Africa,Eastern Mediterranean,Middle East and North Africa,Africa,70.0,30.680999999999997,0.941470027,20.50632911,73.75000763,0.3,76.5,39.5,3.6,2.5
+117,Mozambique,MZ,Africa,Africa,Sub-Saharan Africa,Africa,289.0,146.2508,0.917689979,39.6,60.65542984,1.3,60.2,54.0,4.1,14.0
+118,Myanmar,MM,Asia,South-East Asia,East Asia and Pacific,East Asia,250.0,28.2066,1.01078999,10.16166282,75.55120087,2.7,66.9,38.1,9.8,6.3
+119,Namibia,,Africa,Africa,Sub-Saharan Africa,Africa,195.0,61.632,0.9970199765,46.15384615,91.52726746,2.6,63.4,59.1,4.9,19.4
+120,Nepal,NP,Asia,South-East Asia,South Asia,East Asia,186.0,64.399,1.04677999,32.72727273,67.90843201,0.9,70.5,32.8,8.0,11.4
+121,Netherlands,NL,Europe,Europe,Europe and Central Asia,Western Europe,5.0,3.7028,1.0058499570000001,36.0,91.29380798,0.3,82.1,28.2,6.4,12.9
+122,New Zealand,NZ,Oceania,Western Pacific,East Asia and Pacific,Western Offshoots,9.0,18.6046,1.03718996,38.33333333,91.29380798,0.5,82.1,37.4,6.2,17.3
+123,Nicaragua,NI,North America,Americas,Latin America and Caribbean,Latin America,98.0,83.3048,0.9970199765,45.65217391,82.61454773,2.9,74.3,46.2,5.0,19.2
+124,Niger,NE,Africa,Africa,Sub-Saharan Africa,Africa,509.0,183.5134,0.838320017,16.95906433,35.04999924,11.9,62.0,34.3,6.7,11.5
+125,Nigeria,NG,Africa,Africa,Sub-Saharan Africa,Africa,917.0,105.447,0.930320024,5.555555556,62.01601028,4.4,54.3,43.0,17.1,17.5
+126,North Macedonia,MK,Balkan,Europe,Europe and Central Asia,Eastern Europe,7.0,15.162,0.9861099720000001,38.33333333,97.80000305,1.2,75.7,35.6,3.0,9.7
+127,Norway,NO,Nordic,Europe,Europe and Central Asia,Western Europe,2.0,5.1048,0.977540016,41.42011834,91.29380798,4.4,82.3,27.5,6.5,13.6
+128,Oman,OM,Middle East,Eastern Mediterranean,Middle East and North Africa,Western Asia,19.0,12.6964,0.990920007,1.176470588,95.6515274,18.1,77.6,37.4,0.9,4.8
+129,Pakistan,PK,Asia,Eastern Mediterranean,South Asia,East Asia,140.0,38.2106,0.8488900070000001,20.23460411,59.13204956,0.8,67.1,33.5,3.1,3.0
+130,Palau,,Oceania,Western Pacific,East Asia and Pacific,East Asia,67.0,39.089299999999994,0.985849977,12.5,96.59374237,1.9,73.7,37.4,4.45,13.6
+131,Panama,PA,North America,Americas,Latin America and Caribbean,Latin America,52.0,81.0386,1.011700034,18.30985915,95.41181183,0.1,78.3,49.9,1.2,7.6
+132,Papua New Guinea,PG,Oceania,Western Pacific,East Asia and Pacific,East Asia,145.0,51.982,0.8575999740000001,2.702702703,91.29380798,14.0,64.3,41.9,3.8,10.2
+133,Paraguay,PY,South America,Americas,Latin America and Caribbean,Latin America,129.0,70.1824,0.9970199765,15.0,94.02079773,1.6,74.1,48.8,6.2,12.3
+134,Peru,PE,South America,Americas,Latin America and Caribbean,Latin America,88.0,55.9518,0.958109975,27.69230769,94.40827179,5.5,76.5,43.3,2.7,7.6
+135,Philippines,PH,Asia,Western Pacific,East Asia and Pacific,East Asia,121.0,54.7592,1.0264899729999999,29.45205479,98.18254852,0.7,71.1,40.1,2.3,5.2
+136,Poland,PL,Europe,Europe,Europe and Central Asia,Eastern Europe,2.0,10.1692,0.98022002,28.04347826,91.29380798,0.4,78.5,30.8,3.4,23.9
+137,Portugal,PT,Europe,Europe,Europe and Central Asia,Western Europe,8.0,8.0012,0.98605001,34.782608700000004,96.1375885,0.1,81.9,35.5,3.8,14.3
+138,Qatar,QA,Middle East,Eastern Mediterranean,Middle East and North Africa,Western Asia,9.0,9.5896,0.9970199765,9.756097561,93.46396637,7.4,80.1,37.4,1.1,7.3
+139,Romania,RO,Balkan,Europe,Europe and Central Asia,Eastern Europe,19.0,35.535,0.9981499909999999,20.66869301,98.84449768,0.5,75.9,35.9,2.4,13.9
+140,Russian Federation,RU,Europe,Europe,Europe and Central Asia,Eastern Europe,17.0,19.6196,0.977890015,15.77777778,99.73005676,5.8,72.4,37.7,7.5,48.3
+141,Rwanda,RW,Africa,Africa,Sub-Saharan Africa,Africa,248.0,38.852,1.011590004,61.25,73.21559143,5.4,68.7,43.7,6.0,16.9
+142,Samoa,,Oceania,Western Pacific,East Asia and Pacific,East Asia,43.0,23.2952,1.051470041,10.0,99.09577179,1.9,73.2,38.7,2.2,8.7
+143,Sao Tome and Principe,ST,Africa,Africa,Sub-Saharan Africa,Africa,130.0,93.3376,1.040549994,14.54545455,92.81664276,1.9,70.2,30.8,2.1,4.2
+144,Saudi Arabia,SA,Middle East,Eastern Mediterranean,Middle East and North Africa,Western Asia,17.0,7.097,0.9777299759999999,19.86754967,95.32862854,7.9,75.0,37.4,1.7,4.6
+145,Senegal,SN,Africa,Africa,Sub-Saharan Africa,Africa,315.0,70.71600000000001,1.071619987,41.81818182,51.90042114,1.0,67.7,40.3,5.2,20.3
+146,Serbia,RS,Europe,Europe,Europe and Central Asia,Eastern Europe,12.0,14.1444,1.006559968,34.4,98.84150696,0.4,75.8,28.5,5.2,17.3
+147,Seychelles,SC,Africa,Africa,Sub-Saharan Africa,Africa,53.0,61.2244,1.062379956,21.21212121,95.8677063,1.9,73.3,46.8,2.1,15.0
+148,Sierra Leone,SL,Africa,Africa,Sub-Saharan Africa,Africa,1120.0,110.2282,1.005910039,12.32876712,43.20632935,12.9,54.3,34.0,14.2,18.2
+149,Singapore,SG,Asia,Western Pacific,East Asia and Pacific,East Asia,8.0,3.5134,0.995630026,23.0,97.34485626,1.9,83.5,37.4,4.9,11.1
+150,Slovakia,SK,Europe,Europe,Europe and Central Asia,Eastern Europe,5.0,25.9352,1.00672996,20.0,91.29380798,0.1,77.4,26.5,2.6,18.4
+151,Slovenia,SI,Balkan,Europe,Europe and Central Asia,Eastern Europe,7.0,3.6524,1.013360023,24.44444444,99.69999695,1.9,81.2,25.4,4.5,22.4
+152,Solomon Islands,SB,Oceania,Western Pacific,East Asia and Pacific,East Asia,104.0,78.4116,0.9970199765,2.040816327,91.29380798,20.9,72.8,37.1,3.2,8.5
+153,South Africa,ZA,Africa,Africa,Sub-Saharan Africa,Africa,119.0,67.8488,1.003010035,42.7480916,87.04666901,2.7,63.9,63.0,5.1,21.7
+154,South Asia,,,,,,163.0,24.52304689,0.99665,17.10455764,72.24388123,1.4,69.7,37.4,11.6,14.9
+155,South Sudan,SS,Africa,Africa,Sub-Saharan Africa,Africa,1150.0,59.4332,0.685389996,28.45953003,34.52275848,14.0,57.6,46.3,4.1,8.3
+156,Spain,ES,Europe,Europe,Europe and Central Asia,Western Europe,4.0,7.4904,1.0168600079999999,39.14285714,98.43650055,1.9,83.4,36.2,3.1,9.3
+157,Sri Lanka,LK,Asia,South-East Asia,South Asia,East Asia,36.0,20.6904,1.024160028,5.777777778,91.70982361,0.1,76.8,39.8,6.2,23.3
+158,St. Kitts and Nevis,KN,Carribean,Americas,Latin America and Caribbean,Latin America,67.0,39.089299999999994,0.997089982,13.33333333,91.29380798,1.9,74.6,37.4,4.45,13.6
+159,St. Lucia,LC,Carribean,Americas,Latin America and Caribbean,Latin America,117.0,39.8792,1.006410003,16.66666667,91.29380798,1.9,76.1,51.2,2.1,12.7
+160,St. Vincent and the Grenadines,VC,Carribean,Americas,Latin America and Caribbean,Latin America,68.0,48.1898,1.005220056,13.04347826,91.29380798,1.9,72.4,37.4,0.9,3.9
+161,Sub-Saharan Africa,,,,,,534.0,101.2202251,0.9333299999999999,24.074279999999998,65.03897858,6.2,61.2,37.4,8.6,17.4
+162,Sudan,SD,Africa,Eastern Mediterranean,Sub-Saharan Africa,Africa,295.0,60.79600000000001,0.962260008,30.51643192,60.6971817,2.8,65.1,35.4,4.6,14.5
+163,Suriname,SR,Carribean,Americas,Latin America and Caribbean,Latin America,120.0,60.6396,1.134039998,25.49019608,94.38327026,28.1,71.6,37.4,10.9,36.1
+164,Sweden,SE,Nordic,Europe,Europe and Central Asia,Western Europe,4.0,5.1226,1.041970015,46.13180516,91.29380798,0.2,82.7,29.2,7.4,15.8
+165,Switzerland,CH,Europe,Europe,Europe and Central Asia,Western Europe,5.0,2.6438,0.9704599979999999,32.5,91.29380798,1.9,83.6,32.3,6.9,15.8
+166,Syrian Arab Republic,SY,Middle East,Eastern Mediterranean,Middle East and North Africa,Western Asia,31.0,37.9512,0.982309997,13.2,91.29380798,1.9,71.8,37.4,1.1,3.8
+167,Tajikistan,TJ,Asia,Europe,Europe and Central Asia,Eastern Europe,17.0,57.4706,0.9316999909999999,19.04761905,99.80000305,3.5,70.9,34.0,1.7,5.0
+168,Tanzania,TZ,Africa,Africa,Sub-Saharan Africa,Africa,524.0,116.926,1.027899981,37.17948718,77.88722992,2.2,65.0,37.8,5.4,14.3
+169,Thailand,TH,Asia,South-East Asia,East Asia and Pacific,East Asia,37.0,44.6888,0.988979995,5.284552846,93.76776123,1.6,76.9,36.5,4.8,21.4
+170,Timor-Leste,TL,Asia,South-East Asia,South Asia,East Asia,142.0,32.364000000000004,1.012899995,33.84615385,68.0668335,29.7,69.3,28.7,3.7,9.0
+171,Togo,TG,Africa,Africa,Sub-Saharan Africa,Africa,396.0,88.6878,0.874740005,17.58241758,63.74562073,13.4,60.8,43.1,10.9,22.7
+172,Tonga,TO,Oceania,Western Pacific,East Asia and Pacific,East Asia,52.0,14.3302,1.01038003,7.407407407000001,99.41436768,1.9,70.8,37.6,2.9,5.2
+173,Trinidad and Tobago,TT,Carribean,Americas,Latin America and Caribbean,Latin America,67.0,29.3338,0.9970199765,30.95238095,91.29380798,6.9,73.4,37.4,4.3,21.9
+174,Tunisia,TN,Africa,Eastern Mediterranean,Middle East and North Africa,Africa,43.0,7.85,1.067800045,31.33640553,79.03643036,1.6,76.5,32.8,2.2,4.4
+175,Turkey,TR,Middle East,Europe,Europe and Central Asia,Western Asia,17.0,25.5558,0.979900002,17.44966443,96.15052795,0.2,77.4,41.9,3.2,11.3
+176,Turkmenistan,TM,Asia,Europe,Europe and Central Asia,Eastern Europe,7.0,24.2324,0.9970199765,24.8,99.69999695,1.9,68.1,37.4,3.7,11.0
+177,Tuvalu,,Oceania,Western Pacific,East Asia and Pacific,East Asia,67.0,39.089299999999994,1.014369965,6.666666667,91.29380798,1.9,73.7,39.1,4.45,13.6
+178,Uganda,UG,Africa,Africa,Sub-Saharan Africa,Africa,375.0,116.0714,0.9970199765,34.29844098,76.52749634,14.1,63.0,42.8,18.7,21.2
+179,Ukraine,UA,Europe,Europe,Europe and Central Asia,Eastern Europe,19.0,23.0026,0.9958699940000001,12.29314421,91.29380798,1.0,72.0,25.0,4.7,34.5
+180,United Arab Emirates,AE,Middle East,Eastern Mediterranean,Middle East and North Africa,Western Asia,3.0,5.8868,0.948279977,22.5,93.22714233,4.0,77.8,37.4,0.8,3.5
+181,United Kingdom,GB,Europe,Europe,Europe and Central Asia,Western Europe,7.0,12.640999999999998,1.01304996,32.15384615,91.29380798,0.4,81.2,33.2,3.5,11.9
+182,United States,US,North America,Americas,North America,Western Offshoots,19.0,18.5562,0.994700015,23.50230415,91.29380798,0.2,78.9,41.5,6.4,21.1
+183,Uruguay,UY,South America,Americas,Latin America and Caribbean,Latin America,17.0,58.2386,1.0544099809999998,20.2020202,98.70385742,1.2,77.8,39.5,7.1,26.8
+184,Uzbekistan,UZ,Asia,Europe,Europe and Central Asia,Eastern Europe,29.0,24.2094,0.9886000159999999,16.0,99.99288940000001,9.4,71.6,37.4,4.6,10.3
+185,Vanuatu,VU,Oceania,Western Pacific,East Asia and Pacific,East Asia,72.0,48.9082,0.98793,21.27659574,87.50630951,1.9,70.3,37.6,2.7,8.1
+186,Venezuela,VE,South America,Americas,Latin America and Caribbean,Latin America,125.0,84.9792,1.019359946,22.15568862,97.12709045,1.0,72.1,37.4,1.2,6.6
+187,Vietnam,VN,Asia,Western Pacific,East Asia and Pacific,East Asia,43.0,29.1518,0.9970199765,26.72064777,95.00038147,1.0,75.3,35.3,3.4,10.8
+188,World,,,,,,211.0,42.03560333,0.9857600000000001,24.09787827,86.24694061,1.1,72.6,37.4,7.4,13.7
+189,Yemen,YE,Middle East,Eastern Mediterranean,Middle East and North Africa,Western Asia,164.0,59.1624,0.820739985,0.332225914,91.29380798,0.2,66.1,36.7,6.2,13.4
+190,Zambia,ZM,Africa,Africa,Sub-Saharan Africa,Africa,213.0,118.3048,0.9970199765,17.96407186,86.74796295,8.3,63.5,57.1,6.2,17.5
+191,Zimbabwe,ZW,Africa,Africa,Sub-Saharan Africa,Africa,458.0,83.2486,0.970120013,31.48148148,88.69342041,3.1,61.2,43.2,11.1,29.1

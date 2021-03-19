@@ -1,0 +1,11 @@
+filename,folder_path,data_year,merge_col,data_source,new_col_name,id,description
+"WB - Maternal mortality ratio (per 100,000 live births)",raw data/Health,2018,Country Name,World Bank,maternal_mortality_ratio_per100k,,
+WB - Adolescent fertility rate (births per 1000 women),raw data/Health,2018,Country Name,World Bank,adolescent_fetility_per1k,,
+"WB - School enrollment, primary and secondary (gross), gender parity index (GPI)",raw data/Gender Inequality,2018,Country Name,World Bank,school_secondary_enrollment_gpi,,
+WB - Proportion of seats held by women in national parliaments (%),raw data/Gender Inequality,2018,Country Name,World Bank,women_seats_parliament,,
+"WB - Literacy Rate, adult",raw data/Education,2018,Country Name,World Bank,literacy_rate,,
+Natural resource depletion (percent of GNI),raw data/Environment,2017,Country,UN Human Development Data ,natural_resource_depletion,,
+Life expectancy at birth,raw data/Health,2018,Country,UN Human Development Data ,life_expectancy,,
+"Income inequality, Gini coefficient",raw data/Inequality,2018,Country,UN Human Development Data ,income_inequality,,
+"Suicide rate, female (per 100,000 people)",raw data/Security,2016,Country,UN Human Development Data ,female_suicide_per100k,,
+"Suicide rate, male (per 100,000 people)",raw data/Security,2016,Country,UN Human Development Data ,male_suicide_per100k,,

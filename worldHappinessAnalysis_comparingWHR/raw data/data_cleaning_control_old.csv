@@ -1,0 +1,7 @@
+filename,folder_path,description,data_year,merge_col,data_source,new_col_name,id
+Female share of employment in senior and middle management (_).csv,raw data/Gender Inequality,,2018,Country,UN Human Development Data ,female_emp_share,1XaaYnjsmvkzSqKQuMYEqmTksLL4aZLOeCP-keJpvCuA
+Gender Inequality Index (GII).csv,raw data/Gender Inequality,,2018,Country,UN Human Development Data ,gender_ineq_index,1VTgd2TS8LdpamM1qzNvfQSFUVVjm_lp00-h5qYPjf88
+Total unemployment rate (female to male ratio).csv,raw data/Gender Inequality,,2018,Country,UN Human Development Data ,unemp_rate_f2m,1EF8dPQehCKQ4nmUIkA8FZfThEUNdmWgOQhp8lIVFK3M
+"WB - School enrollment, primary and secondary (gross), gender parity index (GPI).csv",raw data/Gender Inequality,,2018,Country Name,World Bank,school_enrollment_gender_parity_index,1aOR2_DFknXKgniBXP4QJBwMCcZ529SvZ2rNiEiGwGBk
+"WB - Labor force, female (% of total labor force).csv",raw data/Gender Inequality,,2018,Country Name,World Bank,labor_force_female,1fv5VUJemm5xKoRgsOWBgWf8H6hPQOrXWwJ5welQGDPA
+WB - Proportion of seats held by women in national parliaments.csv,raw data/Gender Inequality,,2018,Country Name,World Bank,seats_parliament_female,1N_5K7kcCFI88Fb-7rtsQU16YFSgJ66N2Jf8askUcmmY
